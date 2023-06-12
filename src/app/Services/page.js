@@ -1,3 +1,4 @@
+"use client"
 import React, { useState } from 'react'
 import Navigation from '../../../Components/Nav/Navigation'
 import ServiceList from '../../../Components/ServiceList/ServiceList'
