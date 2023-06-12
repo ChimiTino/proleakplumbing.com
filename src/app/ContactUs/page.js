@@ -1,5 +1,5 @@
 "use client"
-import React from 'react'
+import React, { useState } from 'react'
 import Link from 'next/link'
 import * as IoIcon from 'react-icons/io'
 import Navigation from '../../../Components/Nav/Navigation'
@@ -7,14 +7,21 @@ import ContactBox from '../../../Components/Contact/Contact'
 import Footer from '../../../Components/Footer/Footer'
 
 
-function page() {
+function Page() {
+  const [active1 , setActive1] = useState(false)
+  const [active2 , setActive2] = useState(false)
+  const [active3 , setActive3] = useState(true)
   return (
     <>
-   <Navigation/>
+   <Navigation
+    active1={active1}
+    active2={active2}
+    active3={active3}
+   />
    <ContactBox/>
    <Footer/>
     </>
   )
 }
 
-export default page
+export default Page
