@@ -16,25 +16,17 @@ function Header() {
   return (
     <>
 
-   <div className='phone-nav'>
+   {/* <div className='phone-nav'>
    <div className='logo'>
         pro<IoIcon.IoMdWater className='drop'/>leak
     </div>
     <MdIcon.MdOutlineMenu className='theMenu'/>
-   </div> 
-   <div className='mob-menu'>
-   <ul className='ul-mob-list'>
-                <li className='underline' ><Link className='font' href='/'> Home </Link></li>
-               <li><Link className='font' href='/Services'> Services </Link></li> 
-               <li><Link  className='font' href='#aboutUs'> About Us</Link></li>
-               <li><Link  className='font' href='#location'> Location </Link></li>
-               <li><Link  className='font' href='/ContactUs'> Contact Us </Link></li>
-              
-            </ul>
-   </div>
-   <p className='call-top font'>Call Us: <Link href='tel: +27642310520'> +27 64 231 0520  / +27 712 020 277</Link></p>
-    
-   <div ></div><div className='mainBackGround'>
+   </div>  */}
+   
+
+  
+
+   <div className='mainBackGround'>
    <ul className='nav-b-cont'>
       <li className='nav-b'><Link href='/Services'>Services</Link></li>
       <li className='nav-b'><Link href='#aboutUs'>About Us</Link></li>
@@ -42,7 +34,7 @@ function Header() {
    </ul>
   
 <ul className='nav-b-CONTD'>
-      <li className='nav-CONTD'><Link href='"mailto:admin@proleakplumbing.co.za'><GrIcon.GrMail/></Link></li>
+      <li className='nav-CONTD'><Link href='mailto:admin@proleakplumbing.co.za'><GrIcon.GrMail/></Link></li>
       <li className='nav-CONTD'><Link href='tel: +27642310520'><IoIcon.IoMdCall/></Link></li>
    </ul>
 
@@ -62,21 +54,7 @@ return(
    </Carousel>
     </div>    
     
-    <div className='white-cont'>
-    <nav>
-       <div className='logo'>
-                pro<IoIcon.IoMdWater className='drop'/>leak
-            </div>
-
-            <ul className='ul-list'>
-                <li className='underline' ><Link className='font' href='/'> Home </Link></li>
-               <li><Link className='font' href='/Services'> Services </Link></li> 
-               <li><Link  className='font' href='#aboutUs'> About Us</Link></li>
-               <li><Link  className='font' href='#location'> Location </Link></li>
-               <li><Link  className='font' href='/ContactUs'> Contact Us </Link></li>
-            </ul>
-        </nav>
-    </div>
+    
            
         
 
