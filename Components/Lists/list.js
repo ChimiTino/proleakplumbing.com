@@ -7,20 +7,20 @@ import * as GrIcons from 'react-icons/gr'
 
 
 export const ServicesList = [
-    {
-        name: 'Plumbing',
-        discription:<ul>
-            <li className='font'>New Installations</li>
-            <li className='font'>Leak detection</li>
-            <li className='font'>Valves & Vacuum Breakers</li>
-            <li className='font'>Burst & Leaking Pipes</li>
-            <li className='font'>Geysers Repairs & Replacements</li>
-            <li className='font'>Blocked Drains</li>
-            <li className='font'>Certificate of Compliance</li>
-        </ul>,
-        image:'/Plumbing-Services-2.jpg',
-        icon:<MdIcons.MdOutlinePlumbing className='ser-icon'/>
-    },
+    // {
+    //     name: 'Plumbing',
+    //     discription:<ul>
+    //         <li className='font'>New Installations</li>
+    //         <li className='font'>Leak detection</li>
+    //         <li className='font'>Valves & Vacuum Breakers</li>
+    //         <li className='font'>Burst & Leaking Pipes</li>
+    //         <li className='font'>Geysers Repairs & Replacements</li>
+    //         <li className='font'>Blocked Drains</li>
+    //         <li className='font'>Certificate of Compliance</li>
+    //     </ul>,
+    //     image:'/Plumbing-Services-2.jpg',
+    //     icon:<MdIcons.MdOutlinePlumbing className='ser-icon'/>
+    // },
     {
         name: 'Solar Systems',
         discription:<ul>

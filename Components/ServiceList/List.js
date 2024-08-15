@@ -31,7 +31,7 @@ export const ServicesList = [
     <li className='font'>Roof Construction</li>
     <li className='font'>Automation (Gate & Garage Door Motors)</li>
     </ul>,
-    topImg:'/tiling2-large-scaled.jpg'
+    topImg:'/Types-of-roof-installation-min.jpeg'
 },
 {
     name:'Electrical Engineering',
