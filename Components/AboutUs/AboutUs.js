@@ -10,7 +10,7 @@ function AboutUs() {
 <div className='big-cir'></div>
   <div className='qandab-cont'>
       <div  className='aboutUs-cont'>
-        <h6 className='font'>Welcome to Xpert Electrical & Solar Services</h6>
+        <h6 className='font'>Welcome to Xpert Roofing & Solar Services</h6>
         <h1 className='fontHeader'>About Us</h1>
         <p className='font'>Is a fast growing installer of solar solutions, power back up system  for residential and commercial sectors. The team was established in 2019 , since then there has been an increase uptake in installations.
 
