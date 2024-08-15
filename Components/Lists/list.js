@@ -22,34 +22,33 @@ export const ServicesList = [
         icon:<MdIcons.MdOutlinePlumbing className='ser-icon'/>
     },
     {
-        name: 'Paving',
+        name: 'Solar Systems',
         discription:<ul>
-            <li className='font'>Ceiling repairs & replacement</li>
-            <li className='font'>Painting, paving & general  home maintenance</li>
-            <li className='font'> Installation of cupboards</li>
+            <li className='font'>Solar Installations</li>
+            <li className='font'>Solar Maintenance</li>
+            <li className='font'>UPS System</li>
+            <li className='font'>Cooling System</li>
         </ul>,
-        image:'/tiling2-large-scaled.jpg',
-        icon:<AiIcons.AiOutlineBlock className='ser-icon'/>
+        image:'/solar-panel-system.jpg',
+        icon:<MdIcons.MdOutlineSolarPower className='ser-icon'/>
     },
     {
-        name: 'Security',
+        name: 'Roof specialists',
         discription:  <ul>
-        <li className='font'>Fencing (Electrical & Perimeter)</li>
-        <li className='font'>Accessories & Repairs</li>
+        <li className='font'>Roof Maintenance</li>
+        <li className='font'>Roof Repairs</li>
+        <li className='font'>Roof Construction</li>
         <li className='font'>Automation (Gate & Garage Door Motors)</li>
-        <li className='font'> CCTV</li><li>Access Control</li>
-        <li className='font'>Intrusion Detection (Alarm Systems)</li>
-        </ul>,
-        image:'/Untitled presentation.jpg',
-        icon:<AiIcons.AiFillLock className='ser-icon'/>
+       </ul>,
+        image:'/Types-of-roof-installation-min.jpeg',
+        icon:<MdIcons.MdRoofing className='ser-icon'/>
     },
     {
         name: 'Electrical',
         discription:<ul>
             <li className='font'>Lighting</li>
-            <li className='font'>Certificate of Compliance</li>
-            <li className='font'> Pool sub Distribution boards & earth leakage trip repairs. </li>
-            <li className='font'>Approved installer of Prepaid metering</li>
+            <li className='font'>Electrical Certificate of Compliance</li>
+            <li className='font'>Pool sub Distribution boards & earth leakage trip repairs. </li>
             <li className='font'>Lighting & Power Failures</li>
             <li className='font'>  Distributions Boards </li>
             <li className='font'> New Installations & Rewiring</li>

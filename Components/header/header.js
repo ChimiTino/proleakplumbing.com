@@ -34,8 +34,8 @@ function Header() {
    </ul>
   
 <ul className='nav-b-CONTD'>
-      <li className='nav-CONTD'><Link href='mailto:admin@proleakplumbing.co.za'><GrIcon.GrMail/></Link></li>
-      <li className='nav-CONTD'><Link href='tel: +27642310520'><IoIcon.IoMdCall/></Link></li>
+      <li className='nav-CONTD'><Link href='mailto:admin@xpertconstruction.co'><GrIcon.GrMail/></Link></li>
+      <li className='nav-CONTD'><Link href='tel: +27699127598'><IoIcon.IoMdCall/></Link></li>
    </ul>
 
     <div className='o-hidden'> 
@@ -59,9 +59,9 @@ return(
         
 
         <div className='mainHeader fontHeader'> 
-           <h1>Plumbing & Leak Detection</h1>
+           <h1>Xpert Electrical & Solar Services</h1>
            <p className='font'>
-           Proleak Plumbing believes in honesty, reliability, integrity, consistency and superior service.
+           Xpert Electrical & Solar Services believes in honesty, reliability, integrity, consistency and superior service.
            We take pride in quality workmanship and ensure that our services exceed our all of our client's expectations
             </p>
             <button className='front-button'><Link href='/ContactUs'>Book A Quote Today</Link></button>

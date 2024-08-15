@@ -15,6 +15,8 @@ export default function Home() {
   const [active1 , setActive1] = useState(true)
   const [active2 , setActive2] = useState(false)
   const [active3 , setActive3] = useState(false)
+
+  console.log("hello");
   return (
 <>
       <Navigation

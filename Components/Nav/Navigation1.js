@@ -19,12 +19,12 @@ function Navigation1() {
                <li><Link  className='font' href='/'> About Us</Link></li>
                <li><Link  className='font' href='/'> Location </Link></li>
                <li><Link  className='font' href='/ContactUs'> Contact Us </Link></li>
-              <p className='call-top font'>Call Us<Link href='tel: +27642310520'></Link></p>
+              <p className='call-top font'>Call Us<Link href='tel: +27699127598'></Link></p>
     
             </ul>
    </div>
 
-     <p className='call-top font'>Call Us: <Link href='tel: +27642310520'> +27 64 231 0520  / +27 712 020 277</Link></p>
+     <p className='call-top font'>Call Us: <Link href='tel: +27699127598'> +27 69 912 7598</Link></p>
     <div className='white-cont'>
     <nav>
        <div className='logo'>

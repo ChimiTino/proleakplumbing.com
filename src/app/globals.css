@@ -39,8 +39,12 @@ a {
 
 
 
-
-
+.logo-pic{
+  width: 10vw;
+}
+.foot-logo{
+  width: 20vw;
+}
 .slide-menu{
   display: none;
 }
@@ -703,10 +707,9 @@ color: black;
 }
 .logo{
   font-family: 'Comfortaa', cursive;
-  font-size: 2vw;
+  
   color: black;
  padding: 1vw;
-  font-weight: 500;
   
 }
 .drop{
@@ -738,7 +741,7 @@ color: black;
   background-size: 90vw;
   position: relative;
   z-index: 2;
-  height: 42vw;
+  height: 37vw;
   border-bottom-left-radius: 50% 13%;
   border-bottom-right-radius: 50% 13%;
 }
@@ -816,7 +819,8 @@ color: black;
 
 .ul-list li{
  transition: 0.3s;
- padding-top: 5%;
+ padding-top: 8%;
+ cursor: pointer;
 }
 .ul-list li a{
   height: 70%;
@@ -836,7 +840,7 @@ color: black;
   position: absolute;
   z-index: 6;
   right: 17vw;
-  transform: translateY(36vw);
+  transform: translateY(30vw);
 }
 .carousel-indicators button{
   margin-right: 1vw;
@@ -1394,7 +1398,7 @@ width: 20vw;
   transition: 0.3s;
   width: 100%;
   transform: translateX(-100%);
-  background-color: rgba(255, 255, 255, 0.771);
+  background-color: rgba(255, 255, 255, 0.929);
   height: 100%;
 
 }.onmenu{
@@ -1454,6 +1458,9 @@ width: 20vw;
 }
 .contact-input p, .contact-input h1{
   display: none;
+}
+.logo-pic{
+  width: 20vw;
 }
 
 

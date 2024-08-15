@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React, { useState } from 'react'
 import Link from 'next/link'
 import * as IoIcon from 'react-icons/io'
@@ -19,8 +20,8 @@ function Navigation({active1,active2,active3}) {
               <li className={active1? 'underline': ''} ><Link className='font' href='/'>Home</Link></li>
                 <li className={active2? 'underline': ''}><Link className='font' href='/Services'>Services</Link></li>
                 <li className={active3? 'underline': ''}><Link className='font' href='/ContactUs'>Contact Us</Link></li>
-                <li className='nav-CONTD'><Link href='"mailto:admin@proleakplumbing.co.za'><GrIcon.GrMail/></Link></li>
-                <li className='nav-CONTD'><Link href='tel: +27642310520'><IoIcon.IoMdCall/></Link></li>
+                <li className='nav-CONTD'><Link href='"mailto:admin@xpertconstruction.co'><GrIcon.GrMail/></Link></li>
+                <li className='nav-CONTD'><Link href='tel: +27699127598'><IoIcon.IoMdCall/></Link></li>
               </ul>
           </nav>
   </div>
@@ -28,17 +29,17 @@ function Navigation({active1,active2,active3}) {
 
    <div className='phone-nav'>
    <div className='logo'>
-        pro<IoIcon.IoMdWater className='drop'/>leak
+   <img className='logo-pic' src='/drawing-6.png' alt=''/>
     </div>
     <MdIcon.MdOutlineMenu className='theMenu'  onClick={()=> setTogMenu(true)}/>
    </div> 
    
 
-     <p className='call-top font'>Call Us: <Link href='tel: +27642310520'> +27 64 231 0520  / +27 712 020 277</Link></p>
+     <p className='call-top font'>Call Us: <Link href='tel: +27699127598'> +27 69 912 7598</Link></p>
     <div className='white-cont'>
     <nav>
        <div className='logo'>
-                pro<IoIcon.IoMdWater className='drop'/>leak
+                <img className='logo-pic' src='/drawing-6.png' alt=''/>
             </div>
 
             <ul className='ul-list'>

@@ -10,9 +10,19 @@ function AboutUs() {
 <div className='big-cir'></div>
   <div className='qandab-cont'>
       <div  className='aboutUs-cont'>
-        <h6 className='font'>Welcome to Proleak Plumbing and Construction</h6>
+        <h6 className='font'>Welcome to Xpert Electrical & Solar Services</h6>
         <h1 className='fontHeader'>About Us</h1>
-        <p className='font'>Finding the characteristics that make your company unique, concentrating on them, and enhancing them are of utmost importance. Our core principles play a key role in how we have distinguished ourselves. Our values are very important to us both as a company and as individuals since they serve as a guide for how we conduct our daily operations. At Proleak Plumbing and Leak detection, everything we do is focused on upholding these ideals, from the way we carry out our work to the way we interact with others.</p>
+        <p className='font'>Is a fast growing installer of solar solutions, power back up system  for residential and commercial sectors. The team was established in 2019 , since then there has been an increase uptake in installations.
+
+
+<br/><br/>
+Our Xpert solar and electrical technicians  and qualified plumbers are on hand to assist with all your solar energy installation and maintenance. Whether you require a complete installation or maintenance we are always available to help.
+<br/><br/>
+We pride ourselves in getting the  job done right and efficiently to high standards . We understand the importance of providing quality, safe and clean services to our valued clients and this  is vital to our success.
+
+
+
+In addition to energy solutions we also do electrical work ,plumbing and have in-house roof specialists as most of the solar panels are mounted on roof /garage tops</p>
       </div>
       <div className='quote-cont'>
 

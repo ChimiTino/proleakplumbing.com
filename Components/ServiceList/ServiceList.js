@@ -73,12 +73,12 @@ function ServiceList() {
            <div className='row'>
             <h3 className='fontHeader'>EMAIL:</h3>
             
-            <p className='font'><Link href="mailto:admin@proleakplumbing.co.za">admin@proleakplumbing.co.za</Link></p>
+            <p className='font'><Link href="mailto:admin@xpertconstruction.co">admin@xpertconstruction.co</Link></p>
            </div>
 <hr/>
            <div className='row'>
             <h3 className='fontHeader'>TELL:</h3>
-            <p className='font'><Link href="tel: +27642310520">+27 642 310 520</Link></p>
+            <p className='font'><Link href="tel:+27699127598">+27 69 912 7598</Link></p>
            </div>
 <hr/>
            <div className='row'>

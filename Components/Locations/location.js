@@ -18,17 +18,8 @@ function Location() {
            </ul>
            <div className='line'></div>
         </div>
-   <hr/>
-        <div className='loc-1'>
-           <div className='loc-icon'><MdIcon.MdLocationOn className='lcon-1'/></div>
-           <h2 className='fontHeader'>Durban</h2>
-           <ul>
-            <li className='font'>The Bluff: eg. Brighton Beach, Fynnland, Grosvenor, Jacobs, Merebank...</li>
-            <li className='font'>Pinetown: eg. Greytown, Scottsburg, Amanzimtoti, Mtunzini,Pietermaritzburg...</li>
-           
-           </ul>
-           <div className='line'></div>
-        </div>
+   
+      
 <hr/>
         <div className='loc-1'>
            <div className='loc-icon'><MdIcon.MdLocationOn className='lcon-1'/></div>
