@@ -21,7 +21,7 @@ function Footer() {
 
     <div className='comp-info'>
         <h3 className='fontHeader'>Company Infomation</h3>
-       <p className='font'><MdIcon.MdLocationOn/> 20 Komari Street, Paulshof, Johannesburg</p>
+       <p className='font'><MdIcon.MdLocationOn/> 45 Van Riebeek Street, Kuils River, 7580</p>
         <h5 className='fontHeader'>Cell:</h5><p className='font'><Link href="tel:+27699127598">+27 69 912 7598</Link></p>
         <h5 className='fontHeader'>Email:</h5><p className='font'> <Link href="mailto:admin@xpertconstruction.co">admin@xpertconstruction.co</Link></p>
     </div>

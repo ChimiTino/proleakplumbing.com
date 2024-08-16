@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser"
 import * as IoIcon from 'react-icons/io'
@@ -122,9 +123,7 @@ function ContactBox() {
         alt='Proleak'
       />
       <div className="the-logo">
-      <div className='logo'>
-                pro<IoIcon.IoMdWater className='drop'/>leak
-            </div>
+      
       </div>
     </div><div className="circ-div1"></div>
       <div className="circ-div"></div>
