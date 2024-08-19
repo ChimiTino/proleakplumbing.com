@@ -83,7 +83,7 @@ function ServiceList() {
 <hr/>
            <div className='row'>
             <h3 className='fontHeader'>ADDRESS:</h3>
-            <p className='font'>20 Komari Street, Paulshof, Johannesburg</p>
+            <p className='font'>45 Van Riebeek Street, Kuils River, 7580</p>
            </div>
  <hr/>          
            <div>
