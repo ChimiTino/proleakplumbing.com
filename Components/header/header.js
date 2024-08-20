@@ -59,9 +59,9 @@ return(
         
 
         <div className='mainHeader fontHeader'> 
-           <h1> Xpert Roofing & Solar Services</h1>
+           <h1> Xpert Electrical & Solar Services</h1>
            <p className='font'>
-           Xpert Roofing & Solar Services believes in honesty, reliability, integrity, consistency and superior service.
+           Xpert Electrical & Solar Services believes in honesty, reliability, integrity, consistency and superior service.
            We take pride in quality workmanship and ensure that our services exceed our all of our client's expectations
             </p>
             <button className='front-button'><Link href='/ContactUs'>Book A Quote Today</Link></button>

@@ -24,7 +24,7 @@ export const ServicesList = [
 {
     name:'Roofing Specialist',
     icon: <AiIcons.AiOutlineBlock/>,
-    description:'At Xpert Roofing & Solar Services we offer a wide and comprehensive range of roof services.',
+    description:'At Xpert Electrical & Solar Services we offer a wide and comprehensive range of roof services.',
     list:<ul>
     <li className='font'>Roof Maintenance</li>
     <li className='font'>Roof Repairs</li>
